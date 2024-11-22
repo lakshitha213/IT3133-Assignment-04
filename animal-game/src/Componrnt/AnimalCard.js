@@ -4,7 +4,7 @@ import "../assets/css/Animal.css";
 export default function AnimalCards({
   animals,
   onClick,
-  columns = 4,
+  columns = 5,
   gap = "10px",
   borderColor = "white",
 }) {
